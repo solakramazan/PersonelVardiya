@@ -1,0 +1,11 @@
+C:\Users\cr\source\repos\PersonelVardiya_PersonelEkle\PersonelVardiya_PersonelEkle\bin\Debug\PersonelVardiya_PersonelEkle.exe.config
+C:\Users\cr\source\repos\PersonelVardiya_PersonelEkle\PersonelVardiya_PersonelEkle\bin\Debug\PersonelVardiya_PersonelEkle.exe
+C:\Users\cr\source\repos\PersonelVardiya_PersonelEkle\PersonelVardiya_PersonelEkle\bin\Debug\PersonelVardiya_PersonelEkle.pdb
+C:\Users\cr\source\repos\PersonelVardiya_PersonelEkle\PersonelVardiya_PersonelEkle\obj\Debug\PersonelVardiya_PersonelEkle.csproj.AssemblyReference.cache
+C:\Users\cr\source\repos\PersonelVardiya_PersonelEkle\PersonelVardiya_PersonelEkle\obj\Debug\PersonelVardiya_PersonelEkle.csproj.SuggestedBindingRedirects.cache
+C:\Users\cr\source\repos\PersonelVardiya_PersonelEkle\PersonelVardiya_PersonelEkle\obj\Debug\PersonelVardiya_PersonelEkle.Form1.resources
+C:\Users\cr\source\repos\PersonelVardiya_PersonelEkle\PersonelVardiya_PersonelEkle\obj\Debug\PersonelVardiya_PersonelEkle.Properties.Resources.resources
+C:\Users\cr\source\repos\PersonelVardiya_PersonelEkle\PersonelVardiya_PersonelEkle\obj\Debug\PersonelVardiya_PersonelEkle.csproj.GenerateResource.cache
+C:\Users\cr\source\repos\PersonelVardiya_PersonelEkle\PersonelVardiya_PersonelEkle\obj\Debug\PersonelVardiya_PersonelEkle.csproj.CoreCompileInputs.cache
+C:\Users\cr\source\repos\PersonelVardiya_PersonelEkle\PersonelVardiya_PersonelEkle\obj\Debug\PersonelVardiya_PersonelEkle.exe
+C:\Users\cr\source\repos\PersonelVardiya_PersonelEkle\PersonelVardiya_PersonelEkle\obj\Debug\PersonelVardiya_PersonelEkle.pdb
