@@ -1,0 +1,10 @@
+C:\Users\Erkan\source\repos\personelvardiya_yonetici\personelvardiya_yonetici\bin\Debug\personelvardiya_yonetici.exe.config
+C:\Users\Erkan\source\repos\personelvardiya_yonetici\personelvardiya_yonetici\bin\Debug\personelvardiya_yonetici.exe
+C:\Users\Erkan\source\repos\personelvardiya_yonetici\personelvardiya_yonetici\bin\Debug\personelvardiya_yonetici.pdb
+C:\Users\Erkan\source\repos\personelvardiya_yonetici\personelvardiya_yonetici\obj\Debug\personelvardiya_yonetici.csproj.AssemblyReference.cache
+C:\Users\Erkan\source\repos\personelvardiya_yonetici\personelvardiya_yonetici\obj\Debug\personelvardiya_yonetici.Form1.resources
+C:\Users\Erkan\source\repos\personelvardiya_yonetici\personelvardiya_yonetici\obj\Debug\personelvardiya_yonetici.Properties.Resources.resources
+C:\Users\Erkan\source\repos\personelvardiya_yonetici\personelvardiya_yonetici\obj\Debug\personelvardiya_yonetici.csproj.GenerateResource.cache
+C:\Users\Erkan\source\repos\personelvardiya_yonetici\personelvardiya_yonetici\obj\Debug\personelvardiya_yonetici.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\source\repos\personelvardiya_yonetici\personelvardiya_yonetici\obj\Debug\personelvardiya_yonetici.exe
+C:\Users\Erkan\source\repos\personelvardiya_yonetici\personelvardiya_yonetici\obj\Debug\personelvardiya_yonetici.pdb
