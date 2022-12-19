@@ -1,0 +1,40 @@
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya Merge.csproj.AssemblyReference.cache
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya Merge.csproj.SuggestedBindingRedirects.cache
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya_Merge.Patron.resources
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya_Merge.PersonelDuzenle.resources
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya_Merge.PersonelEkle.resources
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya_Merge.Properties.Resources.resources
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya_Merge.Yonetici.resources
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya Merge.csproj.GenerateResource.cache
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya Merge.csproj.CoreCompileInputs.cache
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\bin\Debug\Vardiya Merge.exe.config
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\bin\Debug\Vardiya Merge.exe
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\bin\Debug\Vardiya Merge.pdb
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya Merge.exe
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya Merge.pdb
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\bin\Debug\SoliteraxControlLibrary.dll
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\bin\Debug\SoliteraxControlLibrary.pdb
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya Merge.csproj.CopyComplete
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\bin\Debug\SoliteraxLibrary.dll
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\bin\Debug\SoliteraxLibrary.pdb
+C:\Users\cr\source\repos\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya_Merge.GirisEkrani.resources
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\bin\Debug\Vardiya Merge.exe.config
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\bin\Debug\Vardiya Merge.exe
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\bin\Debug\Vardiya Merge.pdb
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\bin\Debug\SoliteraxControlLibrary.dll
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\bin\Debug\SoliteraxLibrary.dll
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\bin\Debug\SoliteraxControlLibrary.pdb
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\bin\Debug\SoliteraxLibrary.pdb
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya Merge.csproj.AssemblyReference.cache
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya Merge.csproj.SuggestedBindingRedirects.cache
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya_Merge.GirisEkrani.resources
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya_Merge.Patron.resources
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya_Merge.PersonelDuzenle.resources
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya_Merge.PersonelEkle.resources
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya_Merge.Properties.Resources.resources
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya_Merge.Yonetici.resources
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya Merge.csproj.GenerateResource.cache
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya Merge.csproj.CoreCompileInputs.cache
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya Merge.csproj.CopyComplete
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya Merge.exe
+C:\Users\asira\Desktop\Vardiya Merge\Vardiya Merge\obj\Debug\Vardiya Merge.pdb
