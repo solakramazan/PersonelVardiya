@@ -38,6 +38,12 @@ namespace Vardiya_Merge
                 this.Hide();
                 GC.Collect();
             }
+            else if (ad_text.Text.Equals("personel") && sifre_text.Text.Equals(""))
+            {
+                Personel prs = new Personel();
+                prs.Show();
+                this.Hide();
+            }
             else
             {
                 yanlısuyarı.Text = "Yanlış Giriş Yaptınız Tekrar Deneyiniz !!";
@@ -45,6 +51,16 @@ namespace Vardiya_Merge
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void saat_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ad_text_TextChanged(object sender, EventArgs e)
         {
 
         }

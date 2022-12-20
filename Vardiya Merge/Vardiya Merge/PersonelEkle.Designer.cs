@@ -49,6 +49,8 @@
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.anasybtn = new System.Windows.Forms.Button();
+            this.unvanbox = new System.Windows.Forms.ComboBox();
+            this.label9 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -58,6 +60,8 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.Transparent;
+            this.panel1.Controls.Add(this.label9);
+            this.panel1.Controls.Add(this.unvanbox);
             this.panel1.Controls.Add(this.panel2);
             this.panel1.Controls.Add(this.label5);
             this.panel1.Controls.Add(this.label4);
@@ -185,7 +189,7 @@
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.textBox1.Location = new System.Drawing.Point(169, 91);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox1.Multiline = false;
             this.textBox1.Name = "textBox1";
             this.textBox1.Padding = new System.Windows.Forms.Padding(10, 7, 10, 7);
@@ -290,6 +294,28 @@
             this.anasybtn.UseVisualStyleBackColor = false;
             this.anasybtn.Click += new System.EventHandler(this.anasybtn_Click);
             // 
+            // unvanbox
+            // 
+            this.unvanbox.FormattingEnabled = true;
+            this.unvanbox.Items.AddRange(new object[] {
+            "İşçi",
+            "Memur"});
+            this.unvanbox.Location = new System.Drawing.Point(169, 252);
+            this.unvanbox.Name = "unvanbox";
+            this.unvanbox.Size = new System.Drawing.Size(121, 21);
+            this.unvanbox.TabIndex = 13;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label9.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label9.Location = new System.Drawing.Point(93, 252);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(59, 16);
+            this.label9.TabIndex = 14;
+            this.label9.Text = "Ünvan :";
+            // 
             // PersonelEkle
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -341,5 +367,7 @@
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Button anasybtn;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.ComboBox unvanbox;
     }
 }
