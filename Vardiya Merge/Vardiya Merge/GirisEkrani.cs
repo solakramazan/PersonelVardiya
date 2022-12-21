@@ -24,14 +24,14 @@ namespace Vardiya_Merge
 
         private void grs_btn_Click(object sender, EventArgs e)
         {
-            if(ad_text.Text.Equals("patron") && sifre_text.Text.Equals(""))
+            if(ad_text.Text.Equals("patron") && sifre_text.Text.Equals("123"))
             {
                 Patron p = new Patron();
                 p.Show();
                 this.Hide();
                 GC.Collect();
             }
-            else if(ad_text.Text.Equals("yonetici") && sifre_text.Text.Equals(""))
+            else if(ad_text.Text.Equals("yonetici") && sifre_text.Text.Equals("123"))
             {
                 Yonetici y = new Yonetici();
                 y.Show();
@@ -48,6 +48,10 @@ namespace Vardiya_Merge
             {
                 yanlısuyarı.Text = "Yanlış Giriş Yaptınız Tekrar Deneyiniz !!";
             }
+            if (string.IsNullOrEmpty(sifre_text.Text))
+            {
+                yanlısuyarı.Text = "parola boş bırakılamaz ";
+            }
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -61,6 +65,11 @@ namespace Vardiya_Merge
         }
 
         private void ad_text_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void sifre_text_TextChanged(object sender, EventArgs e)
         {
 
         }

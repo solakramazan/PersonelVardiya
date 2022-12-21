@@ -94,7 +94,7 @@
             // btnGeri
             // 
             this.btnGeri.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnGeri.Location = new System.Drawing.Point(368, 456);
+            this.btnGeri.Location = new System.Drawing.Point(361, 456);
             this.btnGeri.Name = "btnGeri";
             this.btnGeri.Size = new System.Drawing.Size(103, 53);
             this.btnGeri.TabIndex = 4;

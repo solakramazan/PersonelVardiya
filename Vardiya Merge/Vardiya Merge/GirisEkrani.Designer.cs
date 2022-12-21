@@ -52,7 +52,7 @@
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Controls.Add(this.baslık);
             this.panel1.Location = new System.Drawing.Point(-2, 2);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(587, 115);
             this.panel1.TabIndex = 0;
@@ -75,7 +75,7 @@
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(2, 2);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(128, 110);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -123,7 +123,7 @@
             // 
             this.ad_text.Font = new System.Drawing.Font("Arial", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.ad_text.Location = new System.Drawing.Point(266, 193);
-            this.ad_text.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ad_text.Margin = new System.Windows.Forms.Padding(2);
             this.ad_text.Name = "ad_text";
             this.ad_text.Size = new System.Drawing.Size(199, 32);
             this.ad_text.TabIndex = 3;
@@ -133,16 +133,17 @@
             // 
             this.sifre_text.Font = new System.Drawing.Font("Arial", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.sifre_text.Location = new System.Drawing.Point(266, 244);
-            this.sifre_text.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.sifre_text.Margin = new System.Windows.Forms.Padding(2);
             this.sifre_text.Name = "sifre_text";
             this.sifre_text.Size = new System.Drawing.Size(199, 32);
             this.sifre_text.TabIndex = 4;
+            this.sifre_text.TextChanged += new System.EventHandler(this.sifre_text_TextChanged);
             // 
             // grs_btn
             // 
             this.grs_btn.Font = new System.Drawing.Font("Arial", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.grs_btn.Location = new System.Drawing.Point(109, 300);
-            this.grs_btn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.grs_btn.Margin = new System.Windows.Forms.Padding(2);
             this.grs_btn.Name = "grs_btn";
             this.grs_btn.Size = new System.Drawing.Size(356, 42);
             this.grs_btn.TabIndex = 5;
@@ -162,7 +163,7 @@
             this.yanlısuyarı.BackColor = System.Drawing.Color.Transparent;
             this.yanlısuyarı.Font = new System.Drawing.Font("Arial", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.yanlısuyarı.ForeColor = System.Drawing.Color.Red;
-            this.yanlısuyarı.Location = new System.Drawing.Point(144, 363);
+            this.yanlısuyarı.Location = new System.Drawing.Point(211, 355);
             this.yanlısuyarı.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.yanlısuyarı.Name = "yanlısuyarı";
             this.yanlısuyarı.Size = new System.Drawing.Size(0, 18);
@@ -183,7 +184,7 @@
             this.Controls.Add(this.sifre_lbl);
             this.Controls.Add(this.ad_lbl);
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "GirisEkrani";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Kullanıcı Giriş Ekranı";

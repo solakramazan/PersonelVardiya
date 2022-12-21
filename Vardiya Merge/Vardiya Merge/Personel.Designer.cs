@@ -53,7 +53,7 @@
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(152, 96);
+            this.pictureBox1.Size = new System.Drawing.Size(152, 98);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
@@ -78,6 +78,7 @@
             this.ClientSize = new System.Drawing.Size(601, 450);
             this.Controls.Add(this.panel4);
             this.Name = "Personel";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Personel";
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
